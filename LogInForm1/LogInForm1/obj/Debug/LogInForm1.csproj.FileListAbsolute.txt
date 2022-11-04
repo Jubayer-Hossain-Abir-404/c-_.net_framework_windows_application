@@ -1,0 +1,14 @@
+C:\Visual Studio 2019\LogInForm1\LogInForm1\obj\Debug\LogInForm1.Form1.resources
+C:\Visual Studio 2019\LogInForm1\LogInForm1\obj\Debug\LogInForm1.Properties.Resources.resources
+C:\Visual Studio 2019\LogInForm1\LogInForm1\obj\Debug\LogInForm1.csproj.GenerateResource.cache
+C:\Visual Studio 2019\LogInForm1\LogInForm1\obj\Debug\LogInForm1.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2019\LogInForm1\LogInForm1\bin\Debug\LogInForm1.exe.config
+C:\Visual Studio 2019\LogInForm1\LogInForm1\bin\Debug\LogInForm1.exe
+C:\Visual Studio 2019\LogInForm1\LogInForm1\bin\Debug\LogInForm1.pdb
+C:\Visual Studio 2019\LogInForm1\LogInForm1\bin\Debug\Newtonsoft.Json.dll
+C:\Visual Studio 2019\LogInForm1\LogInForm1\bin\Debug\Newtonsoft.Json.xml
+C:\Visual Studio 2019\LogInForm1\LogInForm1\obj\Debug\LogInForm1.csproj.CopyComplete
+C:\Visual Studio 2019\LogInForm1\LogInForm1\obj\Debug\LogInForm1.exe
+C:\Visual Studio 2019\LogInForm1\LogInForm1\obj\Debug\LogInForm1.pdb
+C:\Visual Studio 2019\LogInForm1\LogInForm1\obj\Debug\LogInForm1.MainMenu.resources
+C:\Visual Studio 2019\LogInForm1\LogInForm1\obj\Debug\LogInForm1.csproj.AssemblyReference.cache

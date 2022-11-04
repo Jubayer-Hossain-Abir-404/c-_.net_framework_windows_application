@@ -1,0 +1,10 @@
+D:\VISUAL STUDIO 2019\MultiThreadingBasic\MultiThreadingBasic\bin\Debug\MultiThreadingBasic.exe.config
+D:\VISUAL STUDIO 2019\MultiThreadingBasic\MultiThreadingBasic\bin\Debug\MultiThreadingBasic.exe
+D:\VISUAL STUDIO 2019\MultiThreadingBasic\MultiThreadingBasic\bin\Debug\MultiThreadingBasic.pdb
+D:\VISUAL STUDIO 2019\MultiThreadingBasic\MultiThreadingBasic\obj\Debug\MultiThreadingBasic.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO 2019\MultiThreadingBasic\MultiThreadingBasic\obj\Debug\MultiThreadingBasic.Form1.resources
+D:\VISUAL STUDIO 2019\MultiThreadingBasic\MultiThreadingBasic\obj\Debug\MultiThreadingBasic.Properties.Resources.resources
+D:\VISUAL STUDIO 2019\MultiThreadingBasic\MultiThreadingBasic\obj\Debug\MultiThreadingBasic.csproj.GenerateResource.cache
+D:\VISUAL STUDIO 2019\MultiThreadingBasic\MultiThreadingBasic\obj\Debug\MultiThreadingBasic.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO 2019\MultiThreadingBasic\MultiThreadingBasic\obj\Debug\MultiThreadingBasic.exe
+D:\VISUAL STUDIO 2019\MultiThreadingBasic\MultiThreadingBasic\obj\Debug\MultiThreadingBasic.pdb

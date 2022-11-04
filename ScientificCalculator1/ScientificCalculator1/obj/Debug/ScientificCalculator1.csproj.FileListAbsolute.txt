@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\ScientificCalculator1\ScientificCalculator1\bin\Debug\ScientificCalculator1.exe.config
+C:\Users\Lenovo\source\repos\ScientificCalculator1\ScientificCalculator1\bin\Debug\ScientificCalculator1.exe
+C:\Users\Lenovo\source\repos\ScientificCalculator1\ScientificCalculator1\bin\Debug\ScientificCalculator1.pdb
+C:\Users\Lenovo\source\repos\ScientificCalculator1\ScientificCalculator1\obj\Debug\ScientificCalculator1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ScientificCalculator1\ScientificCalculator1\obj\Debug\ScientificCalculator1.Form1.resources
+C:\Users\Lenovo\source\repos\ScientificCalculator1\ScientificCalculator1\obj\Debug\ScientificCalculator1.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\ScientificCalculator1\ScientificCalculator1\obj\Debug\ScientificCalculator1.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\ScientificCalculator1\ScientificCalculator1\obj\Debug\ScientificCalculator1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ScientificCalculator1\ScientificCalculator1\obj\Debug\ScientificCalculator1.exe
+C:\Users\Lenovo\source\repos\ScientificCalculator1\ScientificCalculator1\obj\Debug\ScientificCalculator1.pdb

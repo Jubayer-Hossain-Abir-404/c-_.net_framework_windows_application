@@ -1,0 +1,11 @@
+D:\VISUAL STUDIO 2019\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO 2019\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+D:\VISUAL STUDIO 2019\LoginForm\LoginForm\obj\Debug\LoginForm.MainMenu.resources
+D:\VISUAL STUDIO 2019\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+D:\VISUAL STUDIO 2019\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+D:\VISUAL STUDIO 2019\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO 2019\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+D:\VISUAL STUDIO 2019\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+D:\VISUAL STUDIO 2019\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+D:\VISUAL STUDIO 2019\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+D:\VISUAL STUDIO 2019\LoginForm\LoginForm\obj\Debug\LoginForm.pdb

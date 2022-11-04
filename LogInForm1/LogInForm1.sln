@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogInForm1", "LogInForm1\LogInForm1.csproj", "{0A96A5C6-0D3A-43E4-AB07-FAAA152C88C2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "test_installer", "test_installer\test_installer.vdproj", "{F66945C2-774D-40CF-9634-114875D36C62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A96A5C6-0D3A-43E4-AB07-FAAA152C88C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A96A5C6-0D3A-43E4-AB07-FAAA152C88C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A96A5C6-0D3A-43E4-AB07-FAAA152C88C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A96A5C6-0D3A-43E4-AB07-FAAA152C88C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F66945C2-774D-40CF-9634-114875D36C62}.Debug|Any CPU.ActiveCfg = Debug
+		{F66945C2-774D-40CF-9634-114875D36C62}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7220DF74-670E-4BE6-B778-EDB89DB20925}
+	EndGlobalSection
+EndGlobal

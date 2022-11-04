@@ -1,0 +1,10 @@
+D:\VISUAL STUDIO 2019\New_Prooject_CRUD_Right_Click\NewProjectRightClick\NewProjectRightClick\bin\Debug\NewProjectRightClick.exe.config
+D:\VISUAL STUDIO 2019\New_Prooject_CRUD_Right_Click\NewProjectRightClick\NewProjectRightClick\bin\Debug\NewProjectRightClick.exe
+D:\VISUAL STUDIO 2019\New_Prooject_CRUD_Right_Click\NewProjectRightClick\NewProjectRightClick\bin\Debug\NewProjectRightClick.pdb
+D:\VISUAL STUDIO 2019\New_Prooject_CRUD_Right_Click\NewProjectRightClick\NewProjectRightClick\obj\Debug\NewProjectRightClick.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO 2019\New_Prooject_CRUD_Right_Click\NewProjectRightClick\NewProjectRightClick\obj\Debug\NewProjectRightClick.Form1.resources
+D:\VISUAL STUDIO 2019\New_Prooject_CRUD_Right_Click\NewProjectRightClick\NewProjectRightClick\obj\Debug\NewProjectRightClick.Properties.Resources.resources
+D:\VISUAL STUDIO 2019\New_Prooject_CRUD_Right_Click\NewProjectRightClick\NewProjectRightClick\obj\Debug\NewProjectRightClick.csproj.GenerateResource.cache
+D:\VISUAL STUDIO 2019\New_Prooject_CRUD_Right_Click\NewProjectRightClick\NewProjectRightClick\obj\Debug\NewProjectRightClick.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO 2019\New_Prooject_CRUD_Right_Click\NewProjectRightClick\NewProjectRightClick\obj\Debug\NewProjectRightClick.exe
+D:\VISUAL STUDIO 2019\New_Prooject_CRUD_Right_Click\NewProjectRightClick\NewProjectRightClick\obj\Debug\NewProjectRightClick.pdb

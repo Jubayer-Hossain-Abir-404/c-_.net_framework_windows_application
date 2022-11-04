@@ -1,0 +1,10 @@
+C:\Visual Studio 2019\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\bin\Debug\Tic-Tac-Toe-Game.exe.config
+C:\Visual Studio 2019\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\bin\Debug\Tic-Tac-Toe-Game.exe
+C:\Visual Studio 2019\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\bin\Debug\Tic-Tac-Toe-Game.pdb
+C:\Visual Studio 2019\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\obj\Debug\Tic-Tac-Toe-Game.csproj.AssemblyReference.cache
+C:\Visual Studio 2019\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\obj\Debug\Tic_Tac_Toe_Game.Form1.resources
+C:\Visual Studio 2019\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\obj\Debug\Tic_Tac_Toe_Game.Properties.Resources.resources
+C:\Visual Studio 2019\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\obj\Debug\Tic-Tac-Toe-Game.csproj.GenerateResource.cache
+C:\Visual Studio 2019\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\obj\Debug\Tic-Tac-Toe-Game.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2019\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\obj\Debug\Tic-Tac-Toe-Game.exe
+C:\Visual Studio 2019\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\obj\Debug\Tic-Tac-Toe-Game.pdb

@@ -1,0 +1,11 @@
+D:\VISUAL STUDIO 2019\MyFirstLoadingAnimation\MyFirstLoadingAnimation\bin\Debug\MyFirstLoadingAnimation.exe.config
+D:\VISUAL STUDIO 2019\MyFirstLoadingAnimation\MyFirstLoadingAnimation\bin\Debug\MyFirstLoadingAnimation.exe
+D:\VISUAL STUDIO 2019\MyFirstLoadingAnimation\MyFirstLoadingAnimation\bin\Debug\MyFirstLoadingAnimation.pdb
+D:\VISUAL STUDIO 2019\MyFirstLoadingAnimation\MyFirstLoadingAnimation\obj\Debug\MyFirstLoadingAnimation.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO 2019\MyFirstLoadingAnimation\MyFirstLoadingAnimation\obj\Debug\MyFirstLoadingAnimation.Form1.resources
+D:\VISUAL STUDIO 2019\MyFirstLoadingAnimation\MyFirstLoadingAnimation\obj\Debug\MyFirstLoadingAnimation.Properties.Resources.resources
+D:\VISUAL STUDIO 2019\MyFirstLoadingAnimation\MyFirstLoadingAnimation\obj\Debug\MyFirstLoadingAnimation.csproj.GenerateResource.cache
+D:\VISUAL STUDIO 2019\MyFirstLoadingAnimation\MyFirstLoadingAnimation\obj\Debug\MyFirstLoadingAnimation.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO 2019\MyFirstLoadingAnimation\MyFirstLoadingAnimation\obj\Debug\MyFirstLoadingAnimation.exe
+D:\VISUAL STUDIO 2019\MyFirstLoadingAnimation\MyFirstLoadingAnimation\obj\Debug\MyFirstLoadingAnimation.pdb
+D:\VISUAL STUDIO 2019\MyFirstLoadingAnimation\MyFirstLoadingAnimation\obj\Debug\MyFirstLoadingAnimation.Form2.resources

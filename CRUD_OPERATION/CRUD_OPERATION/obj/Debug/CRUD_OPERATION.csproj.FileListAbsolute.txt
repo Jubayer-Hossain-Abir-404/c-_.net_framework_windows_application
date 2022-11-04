@@ -1,0 +1,10 @@
+C:\Users\HP-ProBook\source\repos\CRUD_OPERATION\CRUD_OPERATION\bin\Debug\CRUD_OPERATION.exe.config
+C:\Users\HP-ProBook\source\repos\CRUD_OPERATION\CRUD_OPERATION\bin\Debug\CRUD_OPERATION.exe
+C:\Users\HP-ProBook\source\repos\CRUD_OPERATION\CRUD_OPERATION\bin\Debug\CRUD_OPERATION.pdb
+C:\Users\HP-ProBook\source\repos\CRUD_OPERATION\CRUD_OPERATION\obj\Debug\CRUD_OPERATION.csproj.AssemblyReference.cache
+C:\Users\HP-ProBook\source\repos\CRUD_OPERATION\CRUD_OPERATION\obj\Debug\CRUD_OPERATION.Form1.resources
+C:\Users\HP-ProBook\source\repos\CRUD_OPERATION\CRUD_OPERATION\obj\Debug\CRUD_OPERATION.Properties.Resources.resources
+C:\Users\HP-ProBook\source\repos\CRUD_OPERATION\CRUD_OPERATION\obj\Debug\CRUD_OPERATION.csproj.GenerateResource.cache
+C:\Users\HP-ProBook\source\repos\CRUD_OPERATION\CRUD_OPERATION\obj\Debug\CRUD_OPERATION.csproj.CoreCompileInputs.cache
+C:\Users\HP-ProBook\source\repos\CRUD_OPERATION\CRUD_OPERATION\obj\Debug\CRUD_OPERATION.exe
+C:\Users\HP-ProBook\source\repos\CRUD_OPERATION\CRUD_OPERATION\obj\Debug\CRUD_OPERATION.pdb

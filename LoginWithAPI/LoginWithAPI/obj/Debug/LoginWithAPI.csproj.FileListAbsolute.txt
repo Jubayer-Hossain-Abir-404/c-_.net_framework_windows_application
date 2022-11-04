@@ -1,0 +1,14 @@
+C:\Users\HP-ProBook\source\repos\LoginWithAPI\LoginWithAPI\obj\Debug\LoginWithAPI.csproj.AssemblyReference.cache
+C:\Users\HP-ProBook\source\repos\LoginWithAPI\LoginWithAPI\obj\Debug\LoginWithAPI.Form1.resources
+C:\Users\HP-ProBook\source\repos\LoginWithAPI\LoginWithAPI\obj\Debug\LoginWithAPI.Properties.Resources.resources
+C:\Users\HP-ProBook\source\repos\LoginWithAPI\LoginWithAPI\obj\Debug\LoginWithAPI.csproj.GenerateResource.cache
+C:\Users\HP-ProBook\source\repos\LoginWithAPI\LoginWithAPI\obj\Debug\LoginWithAPI.csproj.CoreCompileInputs.cache
+C:\Users\HP-ProBook\source\repos\LoginWithAPI\LoginWithAPI\bin\Debug\LoginWithAPI.exe.config
+C:\Users\HP-ProBook\source\repos\LoginWithAPI\LoginWithAPI\bin\Debug\LoginWithAPI.exe
+C:\Users\HP-ProBook\source\repos\LoginWithAPI\LoginWithAPI\bin\Debug\LoginWithAPI.pdb
+C:\Users\HP-ProBook\source\repos\LoginWithAPI\LoginWithAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP-ProBook\source\repos\LoginWithAPI\LoginWithAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP-ProBook\source\repos\LoginWithAPI\LoginWithAPI\obj\Debug\LoginWithAPI.DataList.resources
+C:\Users\HP-ProBook\source\repos\LoginWithAPI\LoginWithAPI\obj\Debug\LoginWithAPI.csproj.CopyComplete
+C:\Users\HP-ProBook\source\repos\LoginWithAPI\LoginWithAPI\obj\Debug\LoginWithAPI.exe
+C:\Users\HP-ProBook\source\repos\LoginWithAPI\LoginWithAPI\obj\Debug\LoginWithAPI.pdb

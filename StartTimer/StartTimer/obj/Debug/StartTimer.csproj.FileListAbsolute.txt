@@ -1,0 +1,10 @@
+D:\VISUAL STUDIO 2019\StartTimer\StartTimer\bin\Debug\StartTimer.exe.config
+D:\VISUAL STUDIO 2019\StartTimer\StartTimer\bin\Debug\StartTimer.exe
+D:\VISUAL STUDIO 2019\StartTimer\StartTimer\bin\Debug\StartTimer.pdb
+D:\VISUAL STUDIO 2019\StartTimer\StartTimer\obj\Debug\StartTimer.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO 2019\StartTimer\StartTimer\obj\Debug\StartTimer.Form1.resources
+D:\VISUAL STUDIO 2019\StartTimer\StartTimer\obj\Debug\StartTimer.Properties.Resources.resources
+D:\VISUAL STUDIO 2019\StartTimer\StartTimer\obj\Debug\StartTimer.csproj.GenerateResource.cache
+D:\VISUAL STUDIO 2019\StartTimer\StartTimer\obj\Debug\StartTimer.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO 2019\StartTimer\StartTimer\obj\Debug\StartTimer.exe
+D:\VISUAL STUDIO 2019\StartTimer\StartTimer\obj\Debug\StartTimer.pdb
